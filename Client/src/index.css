@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.button {
+	align-items: center;
+	cursor: pointer;
+	-webkit-tap-highlight-color: transparent !important;
+}
+
+a {
+	outline: none !important;
+	text-decoration: none;
+	-webkit-tap-highlight-color: transparent !important;
+}
